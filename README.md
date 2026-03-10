@@ -1,5 +1,5 @@
 # Code for Community-Enhanced Link Prediction (CELP)
-[A Community-Enhanced Graph Representation Learning Model for Link Prediction](https://arxiv.org/abs/2309.00976)
+[A Community-Enhanced Graph Representation Learning Model for Link Prediction](https://arxiv.org/abs/2512.21166)
 
 Authors: Lei Wang, Darong Lai
 
@@ -7,7 +7,7 @@ Authors: Lei Wang, Darong Lai
 
 
 ## Environment Setting
-- `torch==1.12.1+cu113`，`torchvision==0.13.1+cu113`（CUDA 11.3）
+- `torch==1.12.1+cu113`，`torchvision==0.13.1+cu113`（CUDA 11.3�?
 - `torch_geometric==2.5.3`
 - `torch-scatter==2.1.0+pt112cu113`，`torch-sparse==0.6.16+pt112cu113`，`torch-cluster==1.6.0+pt112cu113`，`torch-spline-conv==1.2.1+pt112cu113`
 - `ogb==1.3.6`，`networkx==2.8.8`
