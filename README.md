@@ -1,5 +1,5 @@
 # Code for Community-Enhanced Link Prediction (CELP)
-[A Community-Enhanced Graph Representation Learning Model for Link Prediction](https://arxiv.org/abs/2309.00976)
+[A Community-Enhanced Graph Representation Learning Model for Link Prediction](https://arxiv.org/abs/2512.21166)
 
 Authors: Lei Wang, Darong Lai
 
